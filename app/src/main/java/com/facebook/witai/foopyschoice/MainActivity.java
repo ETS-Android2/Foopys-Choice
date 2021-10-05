@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
     private int ran;
 
     /* Go to your Wit.ai app Management > Settings and obtain the Client Access Token */
-    private static final String CLIENT_ACCESS_TOKEN = "YLWNN3BC5KM2D6CWYR7DNBBXM6RE5R3T";
+    private static final String CLIENT_ACCESS_TOKEN = "put your api key";
     private View view;
 
     //private static final int ran = (int)((Math.random()*10000)%3 +1);
